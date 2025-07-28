@@ -2,5 +2,5 @@
 
 
 
-<img src="https://github.com/Ceo0306/4467027\_SANTHOSHKUMAR-S/blob/main/GIT/Certificates/GIT%20Simplilearn%20Course%20Certificate.png" alt="image">
+<img src="https://github.com/Ceo0306/4467027\_SANTHOSHKUMAR-S/blob/main/GIT/Certificates/GIT Simplilearn Course Certificate.png" alt="image">
 
