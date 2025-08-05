@@ -8,3 +8,5 @@
 #Introduction to C
 <img src="https://github.com/Ceo0306/4467027_SANTHOSHKUMAR-S/blob/main/Essentials of C Programming/Course Certificates/Introduction to C/Introduction to C Course Certificate.jpg" alt="image">
 
+#C Intermediate
+<img src="https://github.com/Ceo0306/4467027_SANTHOSHKUMAR-S/blob/main/Essentials of C Programming/Course Certificates/C Intermediate/C Intermediate Course Certificate.jpg" alt="image">
