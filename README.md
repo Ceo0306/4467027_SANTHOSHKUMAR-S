@@ -6,7 +6,7 @@
 <img src="https://github.com/Ceo0306/4467027_SANTHOSHKUMAR-S/blob/main/SDLC/Agile Course Completion Screenshot.jpg" alt="image">
 
 #Introduction to C
-<img src="https://github.com/Ceo0306/4467027_SANTHOSHKUMAR-S/blob/main/Essentials of C Programming/Course Certificates/4467027_Introduction to C Certificate.jpg" alt="image">
+<img src="https://github.com/Ceo0306/4467027_SANTHOSHKUMAR-S/blob/main/Essentials of C Programming/Course Certificates/Introduction to C/4467027_Introduction to C Certificate.png" alt="image">
 
 #C Intermediate
-<img src="https://github.com/Ceo0306/4467027_SANTHOSHKUMAR-S/blob/main/Essentials of C Programming/Course Certificates/C Intermediate/4467027_C Intermediate Certificate.jpg" alt="image">
+<img src="https://github.com/Ceo0306/4467027_SANTHOSHKUMAR-S/blob/main/Essentials of C Programming/Course Certificates/C Intermediate/4467027_C Intermediate Certificate.png" alt="image">
